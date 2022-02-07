@@ -22,7 +22,7 @@
     "url": "https://polinomio.cl/",
     "icon": "https://favicons.githubusercontent.com/polinomio.cl",
     "slug": "polinomio",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -33,7 +33,9 @@
     "timeWeek": 364,
     "timeMonth": 364,
     "timeYear": 364,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-02-07": 0
+    }
   },
   {
     "name": "Que Carne",
