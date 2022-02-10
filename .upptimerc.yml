@@ -3,13 +3,13 @@ owner: equistene # Your GitHub organization or username, where this repository l
 repo: uptime-sites # The name of this repository
 
 sites:   
-  - name: Portafolio
+  - name: portafolio.xtn.cl
     url: https://portafolio.xtn.cl/
-  - name: Polinomio
+  - name: polinomio.cl
     url: https://polinomio.cl/
-  - name: Que Carne
+  - name: quecarne.cl
     url: https://quecarne.cl/
-  - name: Unonuevedos
+  - name: 192.cl
     url: https://192.cl/
 
 status-website:
