@@ -22,9 +22,9 @@
     "url": "https://polinomio.cl/",
     "icon": "https://favicons.githubusercontent.com/polinomio.cl",
     "slug": "polinomio-cl",
-    "status": "up",
+    "status": "down",
     "uptime": "99.13%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.13%",
     "uptimeYear": "99.13%",
@@ -34,6 +34,7 @@
     "timeMonth": 349,
     "timeYear": 349,
     "dailyMinutesDown": {
+      "2022-03-01": 0,
       "2022-02-10": 232
     }
   },
