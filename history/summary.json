@@ -12,7 +12,7 @@
     "uptimeYear": "100.00%",
     "time": 342,
     "timeDay": 337,
-    "timeWeek": 240,
+    "timeWeek": 256,
     "timeMonth": 342,
     "timeYear": 342,
     "dailyMinutesDown": {}
@@ -23,18 +23,18 @@
     "icon": "https://favicons.githubusercontent.com/polinomio.cl",
     "slug": "polinomio-cl",
     "status": "down",
-    "uptime": "94.48%",
-    "uptimeDay": "8.85%",
-    "uptimeWeek": "86.98%",
-    "uptimeMonth": "94.48%",
-    "uptimeYear": "94.48%",
+    "uptime": "90.96%",
+    "uptimeDay": "0.00%",
+    "uptimeWeek": "76.24%",
+    "uptimeMonth": "90.96%",
+    "uptimeYear": "90.96%",
     "time": 349,
     "timeDay": 0,
-    "timeWeek": 336,
+    "timeWeek": 368,
     "timeMonth": 349,
     "timeYear": 349,
     "dailyMinutesDown": {
-      "2022-03-02": 55,
+      "2022-03-02": 1137,
       "2022-03-01": 1258,
       "2022-02-10": 232
     }
@@ -44,7 +44,7 @@
     "url": "https://quecarne.cl/",
     "icon": "https://favicons.githubusercontent.com/quecarne.cl",
     "slug": "quecarne-cl",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -55,7 +55,9 @@
     "timeWeek": 233,
     "timeMonth": 282,
     "timeYear": 282,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-03-02": 0
+    }
   },
   {
     "name": "192.cl",
@@ -70,7 +72,7 @@
     "uptimeYear": "100.00%",
     "time": 236,
     "timeDay": 220,
-    "timeWeek": 188,
+    "timeWeek": 199,
     "timeMonth": 236,
     "timeYear": 236,
     "dailyMinutesDown": {}
