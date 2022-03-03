@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 342,
-    "timeDay": 337,
-    "timeWeek": 267,
-    "timeMonth": 342,
-    "timeYear": 342,
+    "time": 343,
+    "timeDay": 364,
+    "timeWeek": 276,
+    "timeMonth": 343,
+    "timeYear": 343,
     "dailyMinutesDown": {}
   },
   {
@@ -23,18 +23,19 @@
     "icon": "https://favicons.githubusercontent.com/polinomio.cl",
     "slug": "polinomio-cl",
     "status": "down",
-    "uptime": "90.91%",
+    "uptime": "89.86%",
     "uptimeDay": "0.00%",
-    "uptimeWeek": "76.08%",
-    "uptimeMonth": "90.91%",
-    "uptimeYear": "90.91%",
+    "uptimeWeek": "72.69%",
+    "uptimeMonth": "89.86%",
+    "uptimeYear": "89.86%",
     "time": 349,
     "timeDay": 0,
-    "timeWeek": 381,
+    "timeWeek": 347,
     "timeMonth": 349,
     "timeYear": 349,
     "dailyMinutesDown": {
-      "2022-03-02": 1153,
+      "2022-03-03": 55,
+      "2022-03-02": 1440,
       "2022-03-01": 1258,
       "2022-02-10": 232
     }
@@ -50,11 +51,11 @@
     "uptimeWeek": "99.85%",
     "uptimeMonth": "99.95%",
     "uptimeYear": "99.95%",
-    "time": 281,
-    "timeDay": 295,
-    "timeWeek": 237,
-    "timeMonth": 281,
-    "timeYear": 281,
+    "time": 282,
+    "timeDay": 287,
+    "timeWeek": 250,
+    "timeMonth": 282,
+    "timeYear": 282,
     "dailyMinutesDown": {
       "2022-03-02": 15
     }
@@ -70,11 +71,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 236,
-    "timeDay": 220,
-    "timeWeek": 211,
-    "timeMonth": 236,
-    "timeYear": 236,
+    "time": 238,
+    "timeDay": 279,
+    "timeWeek": 214,
+    "timeMonth": 238,
+    "timeYear": 238,
     "dailyMinutesDown": {}
   }
 ]
