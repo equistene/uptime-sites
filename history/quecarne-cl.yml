@@ -1,7 +1,7 @@
 url: https://quecarne.cl/
-status: up
-code: 200
-responseTime: 578
-lastUpdated: 2022-03-08T23:14:16.940Z
+status: down
+code: 500
+responseTime: 2303
+lastUpdated: 2022-03-09T14:24:35.396Z
 startTime: Thu Feb 10 2022 14:22:48 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
